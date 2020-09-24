@@ -96,7 +96,7 @@ export default {
 				'process.env.NODE_ENV': JSON.stringify(mode)
 			}),
 			commonjs(),
-			!dev && terser()
+			!dev/* && terser()*/
 		],
 
 		preserveEntrySignatures: false,

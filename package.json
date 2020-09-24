@@ -1,6 +1,7 @@
 {
-  "name": "TODO",
+  "name": "asd",
   "description": "TODO",
+  "repository": "https://github.com/Zsolt-Doczi/test",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
@@ -9,6 +10,7 @@
     "start": "node __sapper__/build"
   },
   "dependencies": {
+    "@types/babel__core": "^7.1.9",
     "compression": "^1.7.1",
     "polka": "next",
     "sirv": "^1.0.0"
