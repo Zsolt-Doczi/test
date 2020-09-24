@@ -37,6 +37,7 @@
 </svelte:head>
 
 <h1>Great success! Truly</h1>
+<p>I hope you see it</p>
 
 <figure>
 	<img alt='Success Kid' src='successkid.jpg'>
