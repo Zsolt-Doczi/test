@@ -37,7 +37,6 @@
 </svelte:head>
 
 <h1>Great success! Truly</h1>
-<p>I hope you see it</p>
 
 <figure>
 	<img alt='Success Kid' src='successkid.jpg'>
@@ -45,5 +44,3 @@
 </figure>
 
 <p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
-<p>Hello I'm here!!!</p>
-<p>This is the last... :D :: :D:D:  D:D:D:D :D:D:D:D</p>
