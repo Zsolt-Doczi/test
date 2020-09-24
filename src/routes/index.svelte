@@ -46,4 +46,4 @@
 
 <p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
 <p>Hello I'm here!!!</p>
-<p>This is the last... :D :: :D:D:  D:D:D:D:D</p>
+<p>This is the last... :D :: :D:D:  D:D:D:D :D:D:D:D</p>
